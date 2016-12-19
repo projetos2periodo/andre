@@ -11,4 +11,5 @@ JAVA |
 Mysql |
 SGBD - DBeaver |
 Biblioteca Gson : Para converter objetos Java para JSON e vice e versa |
-Padrão de arquitetural MVC (Model-View-Controller)
+Padrão de arquitetural MVC (Model-View-Controller) |
+Padrão Singleton (Classe de conexão)
